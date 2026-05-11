@@ -48,7 +48,7 @@ Urban transportation authorities need to understand:
 ## 🚀 Live Interactive Dashboard
 
 👉 **View Dashboard Here:**
-(https://public.tableau.com/app/profile/anand.kumar1736/viz/LondonBikeRide_17784769438250/Dashboard1?publish=yes)
+https://public.tableau.com/views/LondonBikeRide_17784769438250/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ---
