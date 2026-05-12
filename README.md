@@ -4,99 +4,97 @@
 
 <img width="1918" height="1072" alt="Screenshot 2026-05-11 105952" src="https://github.com/user-attachments/assets/8630adb7-4ef1-4a02-9c6d-88c5f9ae32f8" />
 
+## 📊 Project Overview
+This project analyzes **London bike-sharing data** to understand rider behavior, weather impact, and usage trends across different time periods.
+
+The dashboard provides interactive insights into bike demand, helping stakeholders understand when, where, and why bikes are used most frequently.
 
 ---
 
-## 📌 Project Overview
-
-This project analyzes **London Bike Ride data** to uncover riding patterns, peak usage hours, weather impact, and customer behavior insights.
-
-The goal was to transform raw transportation data into an **interactive decision-making dashboard** using Tableau.
-
----
-
-## 🎯 Business Problem
-
-Urban transportation authorities need to understand:
-
-* When do people ride most?
-* How weather affects demand?
-* Which time periods require more bikes?
-* How can bike availability be optimized?
+## 🎯 Project Objectives
+- Analyze bike ride demand patterns
+- Identify peak riding hours & seasons
+- Understand weather impact on bike usage
+- Compare weekday vs weekend trends
+- Provide data-driven transportation insights
 
 ---
 
-## 📊 Dashboard Highlights
+## 🗂 Dataset Information
+The dataset includes:
 
-✔ Interactive Filters
-✔ Time Series Analysis
-✔ Weather vs Ride Demand
-✔ Peak Hour Detection
-✔ KPI Performance Tracking
+- Date & Time
+- Temperature
+- Humidity
+- Wind Speed
+- Weather Conditions
+- Bike Count
+- Season Information
+- Holiday Indicator
+
+---
+
+## 📈 Key Dashboard Insights
+
+✅ Peak bike usage occurs during **commuting hours**  
+✅ Weather strongly impacts ride demand  
+✅ Higher usage during **summer seasons**  
+✅ Weekend riding patterns differ from weekdays  
+✅ Temperature positively correlates with bike usage  
 
 ---
 
 ## 🛠 Tools & Technologies
-
-* Tableau
-* Data Visualization
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-
----
-
-## 🚀 Live Interactive Dashboard
-
-👉 **View Dashboard Here:**
-https://public.tableau.com/views/LondonBikeRide_17784769438250/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- **Tableau** — Data Visualization & Dashboarding
+- **Excel / CSV** — Data Preparation
+- **Data Analysis Techniques**
+  - Trend Analysis
+  - Time Series Analysis
+  - Interactive Filters
+  - KPI Visualization
 
 ---
 
-## 🔍 Key Insights
-
-* 🚴 Highest rides occur during commuting hours.
-* 🌦 Weather conditions significantly impact ride frequency.
-* 📈 Weekend usage shows different behavior than weekdays.
-* ⏰ Peak demand observed during morning & evening rush hours.
-
----
-
-## 💡 Business Recommendations
-
-* Increase bike availability during peak hours.
-* Adjust maintenance schedules during low-demand periods.
-* Introduce weather-based demand prediction.
-* Optimize station allocation based on usage patterns.
+## 📊 Dashboard Features
+- Interactive Filters
+- Dynamic Time Analysis
+- Weather vs Bike Demand Comparison
+- Seasonal Performance View
+- User-Friendly Visual Design
 
 ---
 
-## 📁 Repository Structure
+## 🚀 Live Dashboard
+👉 *(Add Tableau Public Link Here)*
 
-```
-London-Bike-Ride-Analysis
-│
-├── London Bike Ride.twbx
-├── dataset.csv
-├── dashboard.png
-└── README.md
-```
+Example:
+https://public.tableau.com/app/profile/yourprofile
+
+---
+
+## 📂 Project Files
+- `London Bike Ride.twbx` → Tableau Packaged Workbook
+- Dataset files
+- Dashboard Screenshots
+
+---
+
+## 💡 Business Use Case
+This analysis helps:
+- Urban planners
+- Transportation departments
+- Bike-sharing companies
+- Smart city analysts
+
+make better mobility decisions.
 
 ---
 
 ## 👨‍💻 Author
-
-**Aspiring Data Analyst**
-
-Skills:
-
-* Tableau
-* Python
-* SQL
-* Data Analytics
-* Dashboard Design
+**Anand Kumar**
+- Aspiring Data Analyst
+- Skilled in Python | SQL | Tableau | Data Visualization
 
 ---
 
-## ⭐ If you like this project
-
-Give a ⭐ to support!
+⭐ If you like this project, don't forget to **Star the Repository**!
