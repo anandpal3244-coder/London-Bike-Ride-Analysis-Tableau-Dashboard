@@ -67,8 +67,7 @@ The dataset includes:
 ## 🚀 Live Dashboard
 👉 *(Add Tableau Public Link Here)*
 
-Example:
-https://public.tableau.com/app/profile/yourprofile
+https://public.tableau.com/views/LondonBikeRide_17784769438250/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
